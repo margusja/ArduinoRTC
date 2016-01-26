@@ -37,6 +37,10 @@
  *    Inital code with basics of setting time and the first 37 registers and dumping the first 32 registers. 
  *    The code was based on Maurice Ribble's original code.
  * 
+ * 
+ * https://github.com/margusja/ArduinoRTC/blob/master/ArduinoDigitalSerialClock.ino
+ * 
+ * 
  */
 
 // include libs
