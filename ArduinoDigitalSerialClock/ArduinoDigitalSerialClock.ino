@@ -73,7 +73,7 @@ long previousMillis = 0; // will store last time Temp was updated
 byte second, minute, hour, dayOfWeek, dayOfMonth, month, year;
 byte test;
 byte zero;
-char *Day[] = {"","Sun","Mon","Tue","Wed","Thu","Fri","Sat"};
+char *Day[] = {"","Mon","Tue","Wed","Thu","Fri","Sat","Sun"};
 char *Mon[] = {"","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"};
 
 // Convert normal decimal numbers to binary coded decimal
